@@ -1,0 +1,11 @@
+{
+    "rules": {
+      "preset-japanese": true,
+      "no-nfd": true,
+      "prh": {
+        "rulePaths": [
+          "./textlint/prh/demo-rule.yml"
+        ]
+      }
+    }
+  }

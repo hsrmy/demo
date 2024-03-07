@@ -1,0 +1,7 @@
+version: 1
+rules:
+  - expected: 友だち
+    pattern:
+      - 友達
+      - お友だち
+      - お友達
